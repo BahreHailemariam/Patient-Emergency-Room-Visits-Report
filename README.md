@@ -43,3 +43,8 @@ Columns might include:
 ## License & Contribution
 - **License: MIT** License (or choose as appropriate)
 - **Contributions:** Pull requests are welcome—please cite issues or fork the repo if you’d like to suggest improvements.
+
+## 👤 Author
+**Bahre Hailemariam**  
+📍 *Data Analyst & BI Developer \| 4+ Years Experience*\
+📩 [Email Adress](bahre.hail@gmail.com) | 🌐[Portfolio](https://bahre-hailemariam-data-analyst.crd.co/) |💼[LinkedIn](https://www.linkedin.com/in/bahre-hailemariam/) | 📊[GitHub](https://github.com/BahreHailemariam)
